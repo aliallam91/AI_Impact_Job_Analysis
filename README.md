@@ -6,7 +6,7 @@ AI-powered dashboard analyzing job trends, salaries, and industry impact
 This project analyzes the impact of AI on jobs and salaries.
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/imagesdashboard.png)
 
 ## Author
 Ali Waleed
